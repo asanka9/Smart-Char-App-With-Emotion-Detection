@@ -1,5 +1,4 @@
 # Smart-Char-App-With-Emotion-Detector
-https://www.youtube.com/watch?v=mXPyNyma6AU
 
 ## About
 The project aimed to enhance the deliverability of a smart chat application by combining with
